@@ -1,5 +1,7 @@
 # QOL Toggles Steam
 
+![Preview](https://raw.githubusercontent.com/madmaxgrey/QOL-Toggles-Steam/main/_assets/img/QOLTOOGLESTEAM.png)
+
 **QOL Toggles Steam** is a lightweight, modular theme for the Steam client that focuses on **user customization** rather than visual overhaul. You choose what UI elements to keep or hide, with each setting configurable individually.
 
 ---
@@ -58,6 +60,7 @@ To enable or disable features:
 6. When you close the configuration window, you will be prompted to restart Steam (or Millennium)  
 7. **Restart is required for changes to take effect**
 
+---
 
 ## 🙏 Credits
 
