@@ -66,3 +66,6 @@ To enable or disable features:
 
 - **VAC-Ban Visibility** and **Achievement Notification** toggles are based on work by  
   [SpaceEnergy](https://github.com/SpaceEnergy) – thanks for the clean and useful implementations!
+
+- Implementation of Millennium by  
+  [shdwmtr](https://github.com/SteamClientHomebrew/Millennium) – thanks for the seamless integration!
