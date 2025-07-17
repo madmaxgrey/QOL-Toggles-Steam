@@ -19,7 +19,7 @@
   **Options:** `yes` / `no` *(Default: no)*
 
 - **Achievement Notification**  
-  Disable achievement popup notifications, ideal for use with SAN (Silent Achievement Notifier).  
+  Disable achievement popup notifications, ideal for use with SAN (Steam Achievement Notifier).  
   **Options:** `yes` / `no` *(Default: no)*
 
 ---
