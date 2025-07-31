@@ -16,7 +16,7 @@
         "Toggles",
         "Customizable"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "Steam-WebKit": "webkit.css",
     "UseDefaultPatches": true,
     "Conditions": {
@@ -95,6 +95,22 @@
                     "TargetCss": {
                         "affects": [".*"],
                         "src": "config/hideShelf/hide_shelf.css"
+                    }
+                }
+            }
+        },
+        "Store Page Live Broadcast Visibility": {
+            "tab": "General",
+            "description": "Show / hide Live Broadcast video on the store page",
+            "default": "Show",
+            "values": {
+                "Show": {},
+                "Hide": {
+                    "TargetCss": {
+                        "affects": [
+                            "https://store.steampowered.com/app/.*"
+                        ],
+                        "src": "config/removeStoreLive/removeStoreLive.css"
                     }
                 }
             }
